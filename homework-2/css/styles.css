@@ -1,0 +1,183 @@
+
+.logo {
+    height: 58px;
+    width: 223px;
+    display: inline-block;
+    vertical-align: middle;
+    margin-right: 80px;
+}
+
+nav, ul, li {
+    display: inline-block;
+    vertical-align: middle;
+    margin-right: 80px;
+}
+
+nav a {
+    font-weight: 700;
+    color: #8D81FF;
+    font-size: 24px;
+    line-height: 40px;
+}
+
+.selected {
+    color: #4E6FAE;
+}
+
+
+.header {
+    width: 578px;
+    height: 34px;
+    top: 424px;
+    left: 104px;
+    color: #4E6FAE;
+    font-weight: bold;
+}
+
+div h2 {
+    margin-left: 90px;
+    margin-bottom: 50px;
+    font-size: 26px;
+    color: #4E6FAE;
+}
+
+
+.date {
+    background-color: #5012D5;
+    color: #84FF81;
+    font-weight: bold;
+    padding: 8px 12px;
+    display: inline-block;
+    border-radius: 5px;
+    margin: 50px 0 10px 0;
+}
+
+.month {
+    width: 70px;
+    height: 34px;
+    top: 376px;
+    left: 104px;
+    color: #8D81FF;
+    font-weight: 400;
+}
+
+
+.box-container {
+    display: flex;
+    margin-left: 80px;
+    gap: 60px;
+}
+
+.box-1,
+.box-2 {
+    background-color: #E7E7E7;
+    width: 500px;
+    height: 192px;
+    padding: 30px;
+}
+
+.title {
+    width: 307px;
+    height: 24px;
+    font-size: 20px;
+    margin-bottom: 20px;
+}
+
+.content {
+    display: flex;
+}
+
+.content img {
+    width: 77px;
+    height: 77px;
+    margin-right: 25px;
+}
+
+
+.news-header {
+    color: #3F4145;
+    margin-top: 20px;
+
+}
+
+.news-header h1 {
+    font-size: 32px;
+    margin-bottom: 20px;
+    font-weight: bold;
+}
+
+.news-header p {
+    color: #3F4145;
+    margin: 10px;
+}
+
+.description {
+    color: #4E6FAE;
+    display: inline-block;
+    width: 532px;
+    vertical-align: middle;
+}
+
+.sec-img {
+    margin: 0 70px 30px 0;
+    vertical-align: middle;
+}
+
+.contact-label {
+    color: #7E8898;
+    font-weight: bold;
+}
+
+
+.social-icons img:hover {
+    opacity: 0.5;
+}
+
+.facebook-icon {
+    width: 50px;
+    height: 50px;
+}
+
+.youtube-icon {
+    width: 71px;
+    height: 49px;
+}
+
+.separator {
+    background-color: #5012D5;
+    margin: 0 40px;
+    display: inline-block;
+    width: 2px;
+    height: 50px;
+
+}
+
+.separator_2 {
+    background-color: #5012D5;
+    margin: 0 40px;
+    display: inline-block;
+    width: 2px;
+    height: 30px;
+    vertical-align: middle;
+}
+.box_3 {
+    width: 1660px;
+    height: 735px;
+    background-color: #E7E7E7;
+    display: block;
+    margin-bottom: 100px;
+    padding: 90px 100px;
+}
+
+.map-icon {
+    float: right;
+    margin-right: 80px;
+}
+
+.contact {
+    display: inline-block;
+}
+
+.description p {
+    margin-bottom: 20px;
+}
